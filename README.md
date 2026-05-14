@@ -1,4 +1,4 @@
-# Portfolio 03 — Cypress Mid | E2E Testing with Network Control
+# Automation — Cypress E2E Testing with Network Control
 
 > End-to-end test suite for [Saucedemo](https://www.saucedemo.com) built with **Cypress + JavaScript**, demonstrating network interception, custom commands, and edge case coverage.
 
